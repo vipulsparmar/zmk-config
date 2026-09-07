@@ -1,5 +1,5 @@
 include:
   - board: nice_nano_v2
-    shield: my_40
+    shield: vipul_40
   - board: nice_nano_v2
     shield: settings_reset

@@ -1,0 +1,2 @@
+config SHIELD_VIPUL_40
+    def_bool $(shields_list_contains,vipul_40)
