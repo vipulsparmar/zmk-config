@@ -1,5 +1,7 @@
 include:
   - board: nice_nano_v2
     shield: vipul_40
+    snippets:
+      - studio-rpc-usb-uart
   - board: nice_nano_v2
     shield: settings_reset
