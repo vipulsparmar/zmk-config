@@ -38,7 +38,7 @@
         mo2_layer {
             bindings = <
                 &trans  &kp N1   &kp N2   &kp N3   &kp N4   &kp N5   &kp N6   &kp N7   &kp N8   &kp N9   &kp N0   &trans
-                &studio_unlock  &bt BT_CLR  &bt BT_SEL 0  &out OUT_TOG  &trans  &trans  &kp LBRC  &kp RBRC  &kp BSLH  &kp SQT  &trans  &trans
+                &studio_unlock  &bt BT_CLR  &bt BT_SEL 0  &out OUT_TOG  &trans  &trans  &kp LBKT  &kp RBKT  &kp BSLH  &kp SQT  &trans  &trans
                 &kp LSHFT  &trans  &trans  &trans  &trans  &trans  &kp MINUS  &kp EQUAL  &trans  &trans  &trans  &trans
                 &kp LCTRL  &kp LGUI  &kp LALT  &trans  &kp SPACE  &kp SPACE  &kp SPACE   &kp PG_DN   &kp DEL   &kp PG_UP   &kp INS      &kp RCTRL
             >;
